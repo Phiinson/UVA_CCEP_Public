@@ -6,7 +6,7 @@ Mexico,Michoacan De Ocampo,Madero,,MXMIC16049,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,
 Mexico,Coahuila De Zaragoza,Torreon,,MXCOA05035,2020-09-26,18.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Coahuila De Zaragoza,Viesca,,MXCOA05036,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Berriozabal,,MXCHP07012,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guanajuato,Tarandacuao,,MXGUA11038,2020-09-26,0.0,,,-0.10332,0.18864,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guanajuato,Tarandacuao,,MXGUA11038,2020-09-26,0.0,,,-0.10332000000000001,0.18864,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Tarimoro,,MXGUA11039,2020-09-26,0.0,,,-0.18161,0.23759,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Tierra Blanca,,MXGUA11040,2020-09-26,0.0,,,-0.00678,0.19705,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Ocozocoautla De Espinosa,,MXCHP07061,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -38,7 +38,7 @@ Mexico,Jalisco,Zapotlanejo,,MXJAL14124,2020-09-26,0.0,,,-0.05463,0.19464,,,,,,,,
 Mexico,Hidalgo,Tlahuiltepa,,MXHID13071,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tlanalapa,,MXHID13072,2020-09-26,0.0,,,-0.16887,0.18747,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Coatepec Harinas,,MXMEX15021,2020-09-26,0.0,,,-0.08665,0.20287,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Chicoloapan,,MXMEX15029,2020-09-26,2.0,,,-0.19537,0.24621,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Chicoloapan,,MXMEX15029,2020-09-26,2.0,,,-0.19537000000000002,0.24620999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,San Martin De Las Piramides,,MXMEX15075,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Tlaltizapan,,MXMOR17024,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Tlaquiltenango,,MXMOR17025,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -47,7 +47,7 @@ Mexico,Nuevo Leon,Los Aldamas,,MXNLE19003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.
 Mexico,Nuevo Leon,Allende,,MXNLE19004,2020-09-26,0.0,,,-0.08129,0.17015999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Anahuac,,MXNLE19005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Cadereyta Jimenez,,MXNLE19009,2020-09-26,4.0,,,-0.04173,0.19906,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nuevo Leon,Cerralvo,,MXNLE19011,2020-09-26,0.0,,,-0.16280999999999998,0.19337,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nuevo Leon,Cerralvo,,MXNLE19011,2020-09-26,0.0,,,-0.16280999999999998,0.19337000000000001,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Cienega De Flores,,MXNLE19012,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,China,,MXNLE19013,2020-09-26,0.0,,,0.10313,0.16639,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Dr. Arroyo,,MXNLE19014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -60,7 +60,7 @@ Mexico,Oaxaca,Heroica Ciudad De Ejutla De Crespo,,MXOAX20028,2020-09-26,0.0,,,,,
 Mexico,Nuevo Leon,Mina,,MXNLE19037,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Montemorelos,,MXNLE19038,2020-09-26,1.0,,,-0.06423999999999999,0.19746,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Monterrey,,MXNLE19039,2020-09-26,71.0,,,-0.16798,0.2253,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nuevo Leon,Santa Catarina,,MXNLE19048,2020-09-26,26.0,,,-0.11603,0.18932,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nuevo Leon,Santa Catarina,,MXNLE19048,2020-09-26,26.0,,,-0.11603,0.18932000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Santiago,,MXNLE19049,2020-09-26,2.0,,,-0.09544,0.17884,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Vallecillo,,MXNLE19050,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Villaldama,,MXNLE19051,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -176,16 +176,16 @@ Mexico,Oaxaca,Santiago Xanica,,MXOAX20495,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.
 Mexico,Oaxaca,Santiago Yosondua,,MXOAX20500,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Santo Domingo Petapa,,MXOAX20513,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Tataltepec De Valdes,,MXOAX20543,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Atempan,,MXPUE21017,2020-09-26,0.0,,,-0.09208,0.18544,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Atempan,,MXPUE21017,2020-09-26,0.0,,,-0.09208,0.18544000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Atexcal,,MXPUE21018,2020-09-26,0.0,,,-0.0712,0.17556,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Atlixco,,MXPUE21019,2020-09-26,1.0,,,-0.10109,0.20384,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Atlixco,,MXPUE21019,2020-09-26,1.0,,,-0.10109,0.20384000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Huauchinango,,MXPUE21071,2020-09-26,2.0,,,-0.15365,0.23276,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Huehuetla,,MXPUE21072,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Atzitzihuacan,,MXPUE21022,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Atzitzintla,,MXPUE21023,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Axutla,,MXPUE21024,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Ayotoxco De Guerrero,,MXPUE21025,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Calpan,,MXPUE21026,2020-09-26,0.0,,,-0.09939,0.18226,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Calpan,,MXPUE21026,2020-09-26,0.0,,,-0.09938999999999999,0.18225999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Caltepec,,MXPUE21027,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Coatzingo,,MXPUE21031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Cohetzala,,MXPUE21032,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -201,15 +201,15 @@ Mexico,Puebla,Lafragua,,MXPUE21093,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_I
 Mexico,Puebla,Libres,,MXPUE21094,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Mazapiltepec De Juarez,,MXPUE21096,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Molcaxac,,MXPUE21098,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,San Jeronimo Tecuanipan,,MXPUE21126,2020-09-26,0.0,,,-0.17029,0.20737,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,San Jeronimo Tecuanipan,,MXPUE21126,2020-09-26,0.0,,,-0.17029,0.20736999999999997,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Jeronimo Xayacatlan,,MXPUE21127,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Jose Chiapa,,MXPUE21128,2020-09-26,1.0,,,-0.04042,0.19767,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Jose Miahuatlan,,MXPUE21129,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Juan Atenco,,MXPUE21130,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,San Andres Cholula,,MXPUE21119,2020-09-26,1.0,,,-0.1841,0.23202,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,San Andres Cholula,,MXPUE21119,2020-09-26,1.0,,,-0.1841,0.23201999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Antonio Canada,,MXPUE21120,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Diego La Mesa Tochimiltzingo,,MXPUE21121,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,San Felipe Teotlalcingo,,MXPUE21122,2020-09-26,0.0,,,-0.14831,0.22137,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,San Felipe Teotlalcingo,,MXPUE21122,2020-09-26,0.0,,,-0.14831,0.22136999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Felipe Tepatlan,,MXPUE21123,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Sebastian Tlacotepec,,MXPUE21145,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Santa Catarina Tlaltempan,,MXPUE21146,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -227,9 +227,9 @@ Mexico,San Luis Potosi,Ciudad Del Maiz,,MXSLP24010,2020-09-26,0.0,,,,,,,,,,,,,,,
 Mexico,San Luis Potosi,Ciudad Fernandez,,MXSLP24011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Tancanhuitz,,MXSLP24012,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Ciudad Valles,,MXSLP24013,2020-09-26,4.0,,,-0.1008,0.2105,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,San Luis Potosi,Charcas,,MXSLP24015,2020-09-26,0.0,,,-0.0372,0.20292,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,San Luis Potosi,Charcas,,MXSLP24015,2020-09-26,0.0,,,-0.0372,0.20292000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Ebano,,MXSLP24016,2020-09-26,0.0,,,-0.15047,0.2336,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,San Luis Potosi,Guadalcazar,,MXSLP24017,2020-09-26,0.0,,,-0.00358,0.19584,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,San Luis Potosi,Guadalcazar,,MXSLP24017,2020-09-26,0.0,,,-0.00358,0.19584000000000001,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Lagunillas,,MXSLP24019,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Villa De Arriaga,,MXSLP24046,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Villa De Guadalupe,,MXSLP24047,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -250,7 +250,7 @@ Mexico,Sonora,Sahuaripa,,MXSON26052,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_
 Mexico,Sonora,San Luis Rio Colorado,,MXSON26055,2020-09-26,2.0,,,0.0381,0.17125,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Suaqui Grande,,MXSON26062,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Trincheras,,MXSON26064,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sonora,Santa Ana,,MXSON26058,2020-09-26,0.0,,,0.056,0.15717,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sonora,Santa Ana,,MXSON26058,2020-09-26,0.0,,,0.055999999999999994,0.15717,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Soto La Marina,,MXTAM28037,2020-09-26,0.0,,,0.041010000000000005,0.1769,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Tampico,,MXTAM28038,2020-09-26,12.0,,,-0.18091,0.25947,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Tula,,MXTAM28039,2020-09-26,0.0,,,-0.11397,0.17486,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -271,7 +271,7 @@ Mexico,Tamaulipas,Gonzalez,,MXTAM28012,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,N
 Mexico,Tamaulipas,Guemez,,MXTAM28013,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Guerrero,,MXTAM28014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Gustavo Diaz Ordaz,,MXTAM28015,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tamaulipas,Hidalgo,,MXTAM28016,2020-09-26,0.0,,,0.044,0.23748,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tamaulipas,Hidalgo,,MXTAM28016,2020-09-26,0.0,,,0.044000000000000004,0.23748000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,San Lucas Tecopilco,,MXTLA29055,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Amatitlan,,MXVER30012,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Naranjos Amatlan,,MXVER30013,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -285,17 +285,17 @@ Mexico,Veracruz De Ignacio De La Llave,Juchique De Ferrer,,MXVER30095,2020-09-26
 Mexico,Tlaxcala,Sanctorum De Lazaro Cardenas,,MXTLA29020,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Nanacamilpa De Mariano Arista,,MXTLA29021,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Acuamanala De Miguel Hidalgo,,MXTLA29022,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Nativitas,,MXTLA29023,2020-09-26,0.0,,,-0.18469,0.20355,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Panotla,,MXTLA29024,2020-09-26,0.0,,,-0.14823,0.20682,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Nativitas,,MXTLA29023,2020-09-26,0.0,,,-0.18469000000000002,0.20355,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Panotla,,MXTLA29024,2020-09-26,0.0,,,-0.14823,0.20681999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,San Pablo Del Monte,,MXTLA29025,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Santa Cruz Tlaxcala,,MXTLA29026,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Lerdo De Tejada,,MXVER30097,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Teolocholco,,MXTLA29028,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Tepeyanco,,MXTLA29029,2020-09-26,0.0,,,-0.12066,0.19238,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Tepeyanco,,MXTLA29029,2020-09-26,0.0,,,-0.12065999999999999,0.19238,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Terrenate,,MXTLA29030,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Tetla De La Solidaridad,,MXTLA29031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Tetlatlahuca,,MXTLA29032,2020-09-26,0.0,,,-0.19584,0.19208,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Tlaxcala,,MXTLA29033,2020-09-26,1.0,,,-0.18542,0.20589,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Tetlatlahuca,,MXTLA29032,2020-09-26,0.0,,,-0.19584000000000001,0.19208,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Tlaxcala,,MXTLA29033,2020-09-26,1.0,,,-0.18542,0.20589000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Yauhquemehcan,,MXTLA29043,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Zacatelco,,MXTLA29044,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Tlacolulan,,MXVER30177,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -399,7 +399,7 @@ Mexico,Yucatan,Rio Lagartos,,MXYUC31061,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,
 Mexico,Zacatecas,Panuco,,MXZAC32037,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Pinos,,MXZAC32038,2020-09-26,0.0,,,-0.06935,0.25294,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Rio Grande,,MXZAC32039,2020-09-26,2.0,,,-0.15922,0.19382,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Sain Alto,,MXZAC32040,2020-09-26,0.0,,,-0.02878,0.23011,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Sain Alto,,MXZAC32040,2020-09-26,0.0,,,-0.02878,0.23010999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Yucatan,Santa Elena,,MXYUC31066,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Yucatan,Seye,,MXYUC31067,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Yucatan,Sotuta,,MXYUC31069,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -416,32 +416,32 @@ Mexico,Yucatan,Tizimin,,MXYUC31096,2020-09-26,3.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_I
 Mexico,Yucatan,Tzucacab,,MXYUC31098,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Yucatan,Uayma,,MXYUC31099,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Yucatan,Yaxcaba,,MXYUC31104,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Apozol,,MXZAC32001,2020-09-26,0.0,,,-0.07485,0.19023,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Apozol,,MXZAC32001,2020-09-26,0.0,,,-0.07485,0.19022999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Apulco,,MXZAC32002,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Sombrerete,,MXZAC32042,2020-09-26,2.0,,,-0.04878,0.2183,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Sombrerete,,MXZAC32042,2020-09-26,2.0,,,-0.048780000000000004,0.2183,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Susticacan,,MXZAC32043,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Tabasco,,MXZAC32044,2020-09-26,0.0,,,-0.01458,0.18331,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Tabasco,,MXZAC32044,2020-09-26,0.0,,,-0.014580000000000001,0.18331,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Tepechitlan,,MXZAC32045,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Tepetongo,,MXZAC32046,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Teul De Gonzalez Ortega,,MXZAC32047,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Tlaltenango De Sanchez Roman,,MXZAC32048,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Valparaiso,,MXZAC32049,2020-09-26,0.0,,,-0.07124,0.21664,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Vetagrande,,MXZAC32050,2020-09-26,0.0,,,-0.04569,0.18741,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Vetagrande,,MXZAC32050,2020-09-26,0.0,,,-0.045689999999999995,0.18741,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Villa De Cos,,MXZAC32051,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Aguascalientes,Aguascalientes,,MXAGU01001,2020-09-26,22.0,,,-0.06738,0.17559,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Aguascalientes,Asientos,,MXAGU01002,2020-09-26,0.0,,,-0.01033,0.17645,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Aguascalientes,Asientos,,MXAGU01002,2020-09-26,0.0,,,-0.010329999999999999,0.17645,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Aguascalientes,Calvillo,,MXAGU01003,2020-09-26,0.0,,,-0.04868,0.17825,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Aguascalientes,San Jose De Gracia,,MXAGU01008,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Aguascalientes,Tepezala,,MXAGU01009,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Aguascalientes,El Llano,,MXAGU01010,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Aguascalientes,San Francisco De Los Romo,,MXAGU01011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Baja California,Ensenada,,MXBCN02001,2020-09-26,6.0,,,-0.03364,0.16923,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Baja California,Mexicali,,MXBCN02002,2020-09-26,8.0,,,-0.10014,0.18881,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Baja California,Ensenada,,MXBCN02001,2020-09-26,6.0,,,-0.033639999999999996,0.16923,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Baja California,Mexicali,,MXBCN02002,2020-09-26,8.0,,,-0.10013999999999999,0.18880999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Baja California,Tecate,,MXBCN02003,2020-09-26,2.0,,,-0.02077,0.16427999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Baja California,Tijuana,,MXBCN02004,2020-09-26,12.0,,,-0.06119,0.19097,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Baja California,Tijuana,,MXBCN02004,2020-09-26,12.0,,,-0.061189999999999994,0.19097,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Baja California,Playas De Rosarito,,MXBCN02005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Baja California Sur,Comondu,,MXBCS03001,2020-09-26,1.0,,,-0.08413,0.16723,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Baja California Sur,Mulege,,MXBCS03002,2020-09-26,2.0,,,-0.12397,0.21343,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Baja California Sur,Mulege,,MXBCS03002,2020-09-26,2.0,,,-0.12397000000000001,0.21343,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Baja California Sur,La Paz,,MXBCS03003,2020-09-26,46.0,,,-0.13017,0.20155,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Baja California Sur,Los Cabos,,MXBCS03008,2020-09-26,6.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Baja California Sur,Loreto,,MXBCS03009,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -476,7 +476,7 @@ Mexico,Michoacan De Ocampo,Penjamillo,,MXMIC16067,2020-09-26,0.0,,,,,,,,,,,,,,,,
 Mexico,Michoacan De Ocampo,Tiquicheo De Nicolas Romero,,MXMIC16092,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Zinaparo,,MXMIC16109,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Guazapares,,MXCHH08030,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nayarit,Rosamorada,,MXNAY18010,2020-09-26,1.0,,,-0.11401,0.23314,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nayarit,Rosamorada,,MXNAY18010,2020-09-26,1.0,,,-0.11400999999999999,0.23314000000000001,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Zacoalco De Torres,,MXJAL14119,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Cotija,,MXMIC16019,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Cuitzeo,,MXMIC16020,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -526,7 +526,7 @@ Mexico,Michoacan De Ocampo,Periban,,MXMIC16068,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,
 Mexico,Coahuila De Zaragoza,General Cepeda,,MXCOA05011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Coahuila De Zaragoza,Guerrero,,MXCOA05012,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Angel Albino Corzo,,MXCHP07008,2020-09-26,0.0,,,-0.13699999999999998,0.24859,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Arriaga,,MXCHP07009,2020-09-26,0.0,,,-0.08623,0.23193000000000005,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Arriaga,,MXCHP07009,2020-09-26,0.0,,,-0.08623,0.23193000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,La Piedad,,MXMIC16069,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Purepero,,MXMIC16070,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Puruandiro,,MXMIC16071,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -555,7 +555,7 @@ Mexico,Coahuila De Zaragoza,Lamadrid,,MXCOA05016,2020-09-26,0.0,,,,,,,,,,,,,,,,,
 Mexico,Coahuila De Zaragoza,Matamoros,,MXCOA05017,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Huixtan,,MXCHP07038,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Huitiupan,,MXCHP07039,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Huixtla,,MXCHP07040,2020-09-26,0.0,,,-0.18256,0.24824,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Huixtla,,MXCHP07040,2020-09-26,0.0,,,-0.18256,0.24824000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,La Independencia,,MXCHP07041,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Ixhuatan,,MXCHP07042,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Ixtacomitan,,MXCHP07043,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -566,7 +566,7 @@ Mexico,Chiapas,Jitotol,,MXCHP07047,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_I
 Mexico,Chiapas,Juarez,,MXCHP07048,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Larrainzar,,MXCHP07049,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,La Libertad,,MXCHP07050,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Mapastepec,,MXCHP07051,2020-09-26,0.0,,,-0.16685999999999998,0.25596,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Mapastepec,,MXCHP07051,2020-09-26,0.0,,,-0.16685999999999998,0.25595999999999997,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Las Margaritas,,MXCHP07052,2020-09-26,1.0,,,-0.09883,0.26504,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Tingambato,,MXMIC16090,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Tinguindin,,MXMIC16091,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -605,8 +605,8 @@ Mexico,Michoacan De Ocampo,Zinapecuaro,,MXMIC16110,2020-09-26,0.0,,,,,,,,,,,,,,,
 Mexico,Michoacan De Ocampo,Ziracuaretiro,,MXMIC16111,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Coahuila De Zaragoza,San Pedro,,MXCOA05033,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Jose Sixto Verduzco,,MXMIC16113,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Amacuzac,,MXMOR17001,2020-09-26,0.0,,,-0.14702,0.24367,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Atlatlahucan,,MXMOR17002,2020-09-26,0.0,,,-0.12233,0.21337,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Amacuzac,,MXMOR17001,2020-09-26,0.0,,,-0.14702,0.24366999999999997,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Atlatlahucan,,MXMOR17002,2020-09-26,0.0,,,-0.12233,0.21336999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Axochiapan,,MXMOR17003,2020-09-26,0.0,,,-0.08202000000000001,0.19441,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Coahuila De Zaragoza,Sierra Mojada,,MXCOA05034,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Tepalcingo,,MXMOR17019,2020-09-26,1.0,,,-0.2032,0.24965,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -623,7 +623,7 @@ Mexico,Colima,Comala,,MXCOL06003,2020-09-26,0.0,,,-0.24174,0.20756,,,,,,,,,,,,,,
 Mexico,Colima,Coquimatlan,,MXCOL06004,2020-09-26,3.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Colima,Cuauhtemoc,,MXCOL06005,2020-09-26,2.0,,,-0.07517,0.19194,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Colima,Ixtlahuacan,,MXCOL06006,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Colima,Manzanillo,,MXCOL06007,2020-09-26,3.0,,,-0.10325,0.18469,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Colima,Manzanillo,,MXCOL06007,2020-09-26,3.0,,,-0.10325,0.18469000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Colima,Minatitlan,,MXCOL06008,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Colima,Tecoman,,MXCOL06009,2020-09-26,7.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Colima,Villa De Alvarez,,MXCOL06010,2020-09-26,9.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -633,7 +633,7 @@ Mexico,Chiapas,Acapetahua,,MXCHP07003,2020-09-26,0.0,,,-0.13672,0.27792,,,,,,,,,
 Mexico,Chiapas,Altamirano,,MXCHP07004,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Amatan,,MXCHP07005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Chinipas,,MXCHH08020,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chihuahua,Delicias,,MXCHH08021,2020-09-26,4.0,,,-0.052870000000000014,0.15897,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chihuahua,Delicias,,MXCHH08021,2020-09-26,4.0,,,-0.05287000000000001,0.15897,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Dr. Belisario Dominguez,,MXCHH08022,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Galeana,,MXCHH08023,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Santa Isabel,,MXCHH08024,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -643,10 +643,10 @@ Mexico,Chihuahua,Guachochi,,MXCHH08027,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,N
 Mexico,Chihuahua,Guadalupe,,MXCHH08028,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Guadalupe Y Calvo,,MXCHH08029,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Amatenango De La Frontera,,MXCHP07006,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chihuahua,Guerrero,,MXCHH08031,2020-09-26,0.0,,,-0.09188,0.1513,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chihuahua,Guerrero,,MXCHH08031,2020-09-26,0.0,,,-0.09187999999999999,0.1513,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Hidalgo Del Parral,,MXCHH08032,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Huejotitan,,MXCHH08033,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chihuahua,Ignacio Zaragoza,,MXCHH08034,2020-09-26,0.0,,,-0.0823,0.11883,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chihuahua,Ignacio Zaragoza,,MXCHH08034,2020-09-26,0.0,,,-0.0823,0.11882999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Janos,,MXCHH08035,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Jimenez,,MXCHH08036,2020-09-26,0.0,,,-0.05695,0.14849,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Juarez,,MXCHH08037,2020-09-26,16.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -666,29 +666,29 @@ Mexico,Chihuahua,Nonoava,,MXCHH08049,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT
 Mexico,Chihuahua,Nuevo Casas Grandes,,MXCHH08050,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Ocampo,,MXCHH08051,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Ojinaga,,MXCHH08052,2020-09-26,0.0,,,-0.01697,0.11755,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Huitzilac,,MXMOR17009,2020-09-26,0.0,,,-0.162,0.24953000000000006,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Huitzilac,,MXMOR17009,2020-09-26,0.0,,,-0.162,0.24953000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Jantetelco,,MXMOR17010,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Jiutepec,,MXMOR17011,2020-09-26,2.0,,,-0.0767,0.19509,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Jojutla,,MXMOR17012,2020-09-26,0.0,,,-0.1398,0.22226,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Jojutla,,MXMOR17012,2020-09-26,0.0,,,-0.1398,0.22225999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Jonacatepec,,MXMOR17013,2020-09-26,0.0,,,-0.1816,0.24522,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Mazatepec,,MXMOR17014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Miacatlan,,MXMOR17015,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Ocuituco,,MXMOR17016,2020-09-26,0.0,,,-0.12633,0.16582,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Puente De Ixtla,,MXMOR17017,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Temixco,,MXMOR17018,2020-09-26,0.0,,,-0.10433,0.22632,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Temixco,,MXMOR17018,2020-09-26,0.0,,,-0.10432999999999999,0.22632,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Bella Vista,,MXCHP07011,2020-09-26,0.0,,,-0.01655,0.18467,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Bochil,,MXCHP07013,2020-09-26,0.0,,,-0.1264,0.25406,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,El Bosque,,MXCHP07014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Cacahoatan,,MXCHP07015,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Catazaja,,MXCHP07016,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Cintalapa,,MXCHP07017,2020-09-26,0.0,,,-0.0938,0.22967,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Cintalapa,,MXCHP07017,2020-09-26,0.0,,,-0.0938,0.22966999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Coapilla,,MXCHP07018,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Comitan De Dominguez,,MXCHP07019,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,La Concordia,,MXCHP07020,2020-09-26,0.0,,,-0.26669,0.30722,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Copainala,,MXCHP07021,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Chalchihuitan,,MXCHP07022,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Chamula,,MXCHP07023,2020-09-26,0.0,,,-0.16977,0.18839,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Distrito Federal,Xochimilco,,MXCMX09013,2020-09-26,32.0,,,-0.20562,0.23569,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Distrito Federal,Xochimilco,,MXCMX09013,2020-09-26,32.0,,,-0.20561999999999997,0.23569,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Tepoztlan,,MXMOR17020,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Tetecala,,MXMOR17021,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Tetela Del Volcan,,MXMOR17022,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -700,16 +700,16 @@ Mexico,Chiapas,Chenalho,,MXCHP07026,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_
 Mexico,Chiapas,Chiapa De Corzo,,MXCHP07027,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Chiapilla,,MXCHP07028,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Coneto De Comonfort,,MXDUR10003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Durango,Cuencame,,MXDUR10004,2020-09-26,0.0,,,0.00106,0.19562,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Durango,Durango,,MXDUR10005,2020-09-26,10.0,,,-0.0805,0.19504,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Durango,Cuencame,,MXDUR10004,2020-09-26,0.0,,,0.00106,0.19562000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Durango,Durango,,MXDUR10005,2020-09-26,10.0,,,-0.0805,0.19504000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,General Simon Bolivar,,MXDUR10006,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Gomez Palacio,,MXDUR10007,2020-09-26,2.0,,,-0.01188,0.16638,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Durango,Guadalupe Victoria,,MXDUR10008,2020-09-26,0.0,,,-0.061929999999999985,0.16838,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Durango,Guadalupe Victoria,,MXDUR10008,2020-09-26,0.0,,,-0.06192999999999999,0.16838,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Guanacevi,,MXDUR10009,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Chicoasen,,MXCHP07029,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Chicomuselo,,MXCHP07030,2020-09-26,0.0,,,-0.10515,0.22974,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Chilon,,MXCHP07031,2020-09-26,0.0,,,-0.09135,0.25219,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Escuintla,,MXCHP07032,2020-09-26,0.0,,,-0.09172,0.26449,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Escuintla,,MXCHP07032,2020-09-26,0.0,,,-0.09172000000000001,0.26449,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Inde,,MXDUR10011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Lerdo,,MXDUR10012,2020-09-26,1.0,,,-0.08993,0.18045,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Mapimi,,MXDUR10013,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -735,7 +735,7 @@ Mexico,Chiapas,Francisco Leon,,MXCHP07033,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.
 Mexico,Chiapas,Frontera Comalapa,,MXCHP07034,2020-09-26,0.0,,,-0.17397,0.27196,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Frontera Hidalgo,,MXCHP07035,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Suchil,,MXDUR10033,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Durango,Tamazula,,MXDUR10034,2020-09-26,0.0,,,0.17168,0.24687,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Durango,Tamazula,,MXDUR10034,2020-09-26,0.0,,,0.17168,0.24686999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Tepehuanes,,MXDUR10035,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nayarit,Jala,,MXNAY18007,2020-09-26,0.0,,,-0.04748,0.21327,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nayarit,Xalisco,,MXNAY18008,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -746,22 +746,22 @@ Mexico,Guanajuato,Cortazar,,MXGUA11011,2020-09-26,1.0,,,-0.08484,0.18921,,,,,,,,
 Mexico,Guanajuato,Cueramaro,,MXGUA11012,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Doctor Mora,,MXGUA11013,2020-09-26,0.0,,,-0.05172,0.17494,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Dolores Hidalgo Cuna De La Independencia Nacional,,MXGUA11014,2020-09-26,5.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guanajuato,Guanajuato,,MXGUA11015,2020-09-26,2.0,,,-0.09862,0.18352,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guanajuato,Guanajuato,,MXGUA11015,2020-09-26,2.0,,,-0.09862,0.18352000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Huanimaro,,MXGUA11016,2020-09-26,0.0,,,-0.01005,0.24254,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Irapuato,,MXGUA11017,2020-09-26,7.0,,,-0.08598,0.20049,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Jaral Del Progreso,,MXGUA11018,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guanajuato,Jerecuaro,,MXGUA11019,2020-09-26,1.0,,,-0.16009,0.19879,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guanajuato,Jerecuaro,,MXGUA11019,2020-09-26,1.0,,,-0.16009,0.19879000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Leon,,MXGUA11020,2020-09-26,30.0,,,-0.08038,0.18803,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Moroleon,,MXGUA11021,2020-09-26,2.0,,,0.06475,0.15809,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Ocampo,,MXGUA11022,2020-09-26,1.0,,,-0.141,0.17563,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guanajuato,Penjamo,,MXGUA11023,2020-09-26,4.0,,,-0.04354,0.18981,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guanajuato,Penjamo,,MXGUA11023,2020-09-26,4.0,,,-0.043539999999999995,0.18980999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Mazatan,,MXCHP07054,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Purisima Del Rincon,,MXGUA11025,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Romita,,MXGUA11026,2020-09-26,1.0,,,-0.03197,0.2196,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guanajuato,Salamanca,,MXGUA11027,2020-09-26,0.0,,,-0.0936,0.20216,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guanajuato,Salamanca,,MXGUA11027,2020-09-26,0.0,,,-0.0936,0.20215999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Salvatierra,,MXGUA11028,2020-09-26,0.0,,,-0.13342,0.20655,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,San Diego De La Union,,MXGUA11029,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guanajuato,San Felipe,,MXGUA11030,2020-09-26,1.0,,,-0.08764,0.19729,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guanajuato,San Felipe,,MXGUA11030,2020-09-26,1.0,,,-0.08764,0.19729000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,San Francisco Del Rincon,,MXGUA11031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,San Jose Iturbide,,MXGUA11032,2020-09-26,0.0,,,-0.03846,0.15695,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,San Luis De La Paz,,MXGUA11033,2020-09-26,4.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -784,9 +784,9 @@ Mexico,Nayarit,Ruiz,,MXNAY18011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPL
 Mexico,Nayarit,San Blas,,MXNAY18012,2020-09-26,0.0,,,-0.04445,0.25951,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nayarit,San Pedro Lagunillas,,MXNAY18013,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nayarit,Santa Maria Del Oro,,MXNAY18014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nayarit,Santiago Ixcuintla,,MXNAY18015,2020-09-26,1.0,,,-0.06431,0.24371,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nayarit,Tecuala,,MXNAY18016,2020-09-26,0.0,,,-0.10726,0.24599,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nayarit,Tepic,,MXNAY18017,2020-09-26,7.0,,,-0.12611,0.21574,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nayarit,Santiago Ixcuintla,,MXNAY18015,2020-09-26,1.0,,,-0.06431,0.24370999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nayarit,Tecuala,,MXNAY18016,2020-09-26,0.0,,,-0.10726,0.24599000000000001,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nayarit,Tepic,,MXNAY18017,2020-09-26,7.0,,,-0.12611,0.21574000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nayarit,Tuxpan,,MXNAY18018,2020-09-26,0.0,,,-0.09701,0.25556,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nayarit,La Yesca,,MXNAY18019,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nayarit,Bahia De Banderas,,MXNAY18020,2020-09-26,4.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -795,11 +795,11 @@ Mexico,Hidalgo,Huejutla De Reyes,,MXHID13028,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,
 Mexico,Mexico,Atizapan De Zaragoza,,MXMEX15013,2020-09-26,7.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Epitacio Huerta,,MXMIC16031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Mitontic,,MXCHP07056,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Motozintla,,MXCHP07057,2020-09-26,0.0,,,-0.02844,0.25324,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Motozintla,,MXCHP07057,2020-09-26,0.0,,,-0.028439999999999997,0.25324,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Alpoyeca,,MXGRO12005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Apaxtla,,MXGRO12006,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Nicolas Ruiz,,MXCHP07058,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Ocosingo,,MXCHP07059,2020-09-26,0.0,,,-0.11704,0.24949,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Ocosingo,,MXCHP07059,2020-09-26,0.0,,,-0.11704,0.24949000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Arcelia,,MXGRO12007,2020-09-26,0.0,,,-0.15936,0.25111999999999995,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Atenango Del Rio,,MXGRO12008,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Ocotepec,,MXCHP07060,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -841,7 +841,7 @@ Mexico,Chiapas,Socoltenango,,MXCHP07083,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,
 Mexico,Chiapas,Solosuchiapa,,MXCHP07084,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Soyalo,,MXCHP07085,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Suchiapa,,MXCHP07086,2020-09-26,0.0,,,0.00572,0.25976,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Suchiate,,MXCHP07087,2020-09-26,0.0,,,-0.11175999999999997,0.19459,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Suchiate,,MXCHP07087,2020-09-26,0.0,,,-0.11175999999999998,0.19459,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Sunuapa,,MXCHP07088,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Tapachula,,MXCHP07089,2020-09-26,2.0,,,-0.10076,0.24565,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Tapalapa,,MXCHP07090,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -849,7 +849,7 @@ Mexico,Guerrero,Tecoanapa,,MXGRO12056,2020-09-26,0.0,,,-0.16889,0.27386,,,,,,,,,
 Mexico,Guerrero,Tecpan De Galeana,,MXGRO12057,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Teloloapan,,MXGRO12058,2020-09-26,0.0,,,-0.11531,0.21035,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Tepecoacuilco De Trujano,,MXGRO12059,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guerrero,Tetipac,,MXGRO12060,2020-09-26,0.0,,,-0.10439,0.21189,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guerrero,Tetipac,,MXGRO12060,2020-09-26,0.0,,,-0.10439000000000001,0.21189000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Tixtla De Guerrero,,MXGRO12061,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Tlacoachistlahuaca,,MXGRO12062,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Tlacoapa,,MXGRO12063,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -858,7 +858,7 @@ Mexico,Nuevo Leon,Gral. Zaragoza,,MXNLE19024,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,
 Mexico,Nuevo Leon,Gral. Zuazua,,MXNLE19025,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Tapilula,,MXCHP07091,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Tuxtla Gutierrez,,MXCHP07101,2020-09-26,2.0,,,-0.12342,0.23935,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chiapas,Tuxtla Chico,,MXCHP07102,2020-09-26,0.0,,,-0.12499,0.21933,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chiapas,Tuxtla Chico,,MXCHP07102,2020-09-26,0.0,,,-0.12499,0.21933000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Tuzantan,,MXCHP07103,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Tzimol,,MXCHP07104,2020-09-26,1.0,,,-0.10325,0.19296,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Xochistlahuaca,,MXGRO12071,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -870,31 +870,31 @@ Mexico,Guerrero,Acatepec,,MXGRO12076,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT
 Mexico,Guerrero,Marquelia,,MXGRO12077,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Cochoapa El Grande,,MXGRO12078,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Jose Joaquin De Herrera,,MXGRO12079,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nuevo Leon,Guadalupe,,MXNLE19026,2020-09-26,17.0,,,-0.13845,0.21524,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nuevo Leon,Guadalupe,,MXNLE19026,2020-09-26,17.0,,,-0.13845,0.21524000000000001,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Los Herreras,,MXNLE19027,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Higueras,,MXNLE19028,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,Jocotepec,,MXJAL14050,2020-09-26,0.0,,,-0.11146,0.16152,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,Jocotepec,,MXJAL14050,2020-09-26,0.0,,,-0.11145999999999999,0.16152,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Angangueo,,MXMIC16005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Union Juarez,,MXCHP07105,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Maravilla Tenejapa,,MXCHP07115,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Marques De Comillas,,MXCHP07116,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Chilcuautla,,MXHID13019,2020-09-26,0.0,,,-0.16038,0.16502,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Eloxochitlan,,MXHID13020,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Emiliano Zapata,,MXHID13021,2020-09-26,0.0,,,-0.17999,0.21062,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Epazoyucan,,MXHID13022,2020-09-26,0.0,,,-0.17794,0.21555,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Francisco I. Madero,,MXHID13023,2020-09-26,0.0,,,-0.19478,0.22847,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Emiliano Zapata,,MXHID13021,2020-09-26,0.0,,,-0.17999,0.21061999999999997,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Epazoyucan,,MXHID13022,2020-09-26,0.0,,,-0.17794000000000001,0.21555,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Francisco I. Madero,,MXHID13023,2020-09-26,0.0,,,-0.19478,0.22846999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Huasca De Ocampo,,MXHID13024,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Huautla,,MXHID13025,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Huazalingo,,MXHID13026,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Huehuetla,,MXHID13027,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Montecristo De Guerrero,,MXCHP07117,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Huichapan,,MXHID13029,2020-09-26,1.0,,,-0.09599,0.18915,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Huichapan,,MXHID13029,2020-09-26,1.0,,,-0.09598999999999999,0.18915,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Ixmiquilpan,,MXHID13030,2020-09-26,2.0,,,-0.11843,0.16261,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Jacala De Ledezma,,MXHID13031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Jaltocan,,MXHID13032,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Juarez Hidalgo,,MXHID13033,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Lolotla,,MXHID13034,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Metepec,,MXHID13035,2020-09-26,0.0,,,-0.22427,0.19643,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Metepec,,MXHID13035,2020-09-26,0.0,,,-0.22426999999999997,0.19643,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,San Agustin Metzquititlan,,MXHID13036,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Metztitlan,,MXHID13037,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Mineral Del Chico,,MXHID13038,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -917,12 +917,12 @@ Mexico,Hidalgo,Santiago De Anaya,,MXHID13055,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,
 Mexico,Hidalgo,Santiago Tulantepec De Lugo Guerrero,,MXHID13056,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Singuilucan,,MXHID13057,2020-09-26,0.0,,,-0.14875,0.19263,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tasquillo,,MXHID13058,2020-09-26,0.0,,,-0.17844000000000002,0.19563,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Tecozautla,,MXHID13059,2020-09-26,0.0,,,-0.05623,0.15236,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Tecozautla,,MXHID13059,2020-09-26,0.0,,,-0.056229999999999995,0.15236,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,San Andres Duraznal,,MXCHP07118,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chiapas,Santiago El Pinar,,MXCHP07119,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Ahumada,,MXCHH08001,2020-09-26,1.0,,,0.11275,0.106,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Aldama,,MXCHH08002,2020-09-26,0.0,,,-0.08743,0.15291,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chihuahua,Allende,,MXCHH08003,2020-09-26,0.0,,,-0.058579999999999986,0.16029000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chihuahua,Allende,,MXCHH08003,2020-09-26,0.0,,,-0.05857999999999999,0.16029000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tenango De Doria,,MXHID13060,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Aquiles Serdan,,MXCHH08004,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Ascension,,MXCHH08005,2020-09-26,0.0,,,0.00016,0.11289,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -937,14 +937,14 @@ Mexico,Chihuahua,Casas Grandes,,MXCHH08013,2020-09-26,0.0,,,0.00554,0.13706,,,,,
 Mexico,Chihuahua,Coronado,,MXCHH08014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Coyame Del Sotol,,MXCHH08015,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,La Cruz,,MXCHH08016,2020-09-26,0.0,,,-0.07322999999999999,0.13977,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Chihuahua,Cuauhtemoc,,MXCHH08017,2020-09-26,2.0,,,-0.00716,0.12438,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Chihuahua,Cuauhtemoc,,MXCHH08017,2020-09-26,2.0,,,-0.00716,0.12437999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Cusihuiriachi,,MXCHH08018,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Chihuahua,,MXCHH08019,2020-09-26,27.0,,,-0.08257,0.15834,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Praxedis G. Guerrero,,MXCHH08053,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tepehuacan De Guerrero,,MXHID13062,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tepeji Del Rio De Ocampo,,MXHID13063,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tepetitlan,,MXHID13064,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guanajuato,Comonfort,,MXGUA11009,2020-09-26,2.0,,,-0.09677,0.21515,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guanajuato,Comonfort,,MXGUA11009,2020-09-26,2.0,,,-0.09677000000000001,0.21515,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,San Francisco De Borja,,MXCHH08057,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,San Francisco De Conchos,,MXCHH08058,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,San Francisco Del Oro,,MXCHH08059,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -958,7 +958,7 @@ Mexico,Jalisco,Atoyac,,MXJAL14014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IM
 Mexico,Jalisco,Autlan De Navarro,,MXJAL14015,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Ayotlan,,MXJAL14016,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Ayutla,,MXJAL14017,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,La Barca,,MXJAL14018,2020-09-26,1.0,,,-0.0556,0.18651,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,La Barca,,MXJAL14018,2020-09-26,1.0,,,-0.0556,0.18650999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Bolanos,,MXJAL14019,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Cabo Corrientes,,MXJAL14020,2020-09-26,0.0,,,-0.16499,0.19723,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Casimiro Castillo,,MXJAL14021,2020-09-26,0.0,,,-0.09876,0.18515,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -970,7 +970,7 @@ Mexico,Jalisco,Concepcion De Buenos Aires,,MXJAL14026,2020-09-26,0.0,,,,,,,,,,,,
 Mexico,Jalisco,Cuautitlan De Garcia Barragan,,MXJAL14027,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Cuautla,,MXJAL14028,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Cuquio,,MXJAL14029,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,Chapala,,MXJAL14030,2020-09-26,0.0,,,-0.11739,0.16354000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,Chapala,,MXJAL14030,2020-09-26,0.0,,,-0.11739000000000001,0.16354000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Chimaltitan,,MXJAL14031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Chiquilistlan,,MXJAL14032,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Chihuahua,Santa Barbara,,MXCHH08060,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -988,13 +988,13 @@ Mexico,Jalisco,Etzatlan,,MXJAL14036,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_
 Mexico,Jalisco,El Grullo,,MXJAL14037,2020-09-26,0.0,,,-0.06717000000000001,0.1772,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Guachinango,,MXJAL14038,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Guadalajara,,MXJAL14039,2020-09-26,26.0,,,-0.14098,0.19898,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,Hostotipaquillo,,MXJAL14040,2020-09-26,0.0,,,-0.01246,0.16615,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Distrito Federal,Azcapotzalco,,MXCMX09002,2020-09-26,53.0,,,-0.24987,0.23872,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,Hostotipaquillo,,MXJAL14040,2020-09-26,0.0,,,-0.012459999999999999,0.16615,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Distrito Federal,Azcapotzalco,,MXCMX09002,2020-09-26,53.0,,,-0.24986999999999998,0.23872,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Distrito Federal,Coyoacan,,MXCMX09003,2020-09-26,35.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Distrito Federal,Cuajimalpa De Morelos,,MXCMX09004,2020-09-26,34.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Distrito Federal,Gustavo A. Madero,,MXCMX09005,2020-09-26,88.0,,,-0.21407,0.26262,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Distrito Federal,Gustavo A. Madero,,MXCMX09005,2020-09-26,88.0,,,-0.21406999999999998,0.26261999999999996,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Distrito Federal,Iztacalco,,MXCMX09006,2020-09-26,32.0,,,-0.19557,0.26222,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Distrito Federal,Iztapalapa,,MXCMX09007,2020-09-26,73.0,,,-0.20939,0.27505,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Distrito Federal,Iztapalapa,,MXCMX09007,2020-09-26,73.0,,,-0.20939000000000002,0.27505,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Distrito Federal,La Magdalena Contreras,,MXCMX09008,2020-09-26,29.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Huejuquilla El Alto,,MXJAL14042,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,La Huerta,,MXJAL14043,2020-09-26,0.0,,,-0.0043100000000000005,0.20754,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1002,9 +1002,9 @@ Mexico,Jalisco,Ixtlahuacan De Los Membrillos,,MXJAL14044,2020-09-26,0.0,,,,,,,,,
 Mexico,Jalisco,Ixtlahuacan Del Rio,,MXJAL14045,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Jalostotitlan,,MXJAL14046,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Jamay,,MXJAL14047,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,Jesus Maria,,MXJAL14048,2020-09-26,0.0,,,-0.05738,0.16288,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,Jesus Maria,,MXJAL14048,2020-09-26,0.0,,,-0.057379999999999994,0.16288,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Jilotlan De Los Dolores,,MXJAL14049,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Distrito Federal,Milpa Alta,,MXCMX09009,2020-09-26,20.0,,,-0.17254,0.21978000000000006,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Distrito Federal,Milpa Alta,,MXCMX09009,2020-09-26,20.0,,,-0.17254,0.21978000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Distrito Federal,Alvaro Obregon,,MXCMX09010,2020-09-26,72.0,,,-0.2525,0.2655,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Distrito Federal,Tlahuac,,MXCMX09011,2020-09-26,39.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Distrito Federal,Tlalpan,,MXCMX09012,2020-09-26,96.0,,,-0.26098000000000005,0.2509,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1025,9 +1025,9 @@ Mexico,Jalisco,Ojuelos De Jalisco,,MXJAL14064,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,
 Mexico,Jalisco,Pihuamo,,MXJAL14065,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Poncitlan,,MXJAL14066,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,San Luis Acatlan,,MXGRO12052,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Distrito Federal,Cuauhtemoc,,MXCMX09015,2020-09-26,45.0,,,-0.24751,0.26091,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Distrito Federal,Miguel Hidalgo,,MXCMX09016,2020-09-26,45.0,,,-0.25481,0.24089,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,Puerto Vallarta,,MXJAL14067,2020-09-26,13.0,,,-0.09229,0.20116,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Distrito Federal,Cuauhtemoc,,MXCMX09015,2020-09-26,45.0,,,-0.24750999999999998,0.26091,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Distrito Federal,Miguel Hidalgo,,MXCMX09016,2020-09-26,45.0,,,-0.25481,0.24089000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,Puerto Vallarta,,MXJAL14067,2020-09-26,13.0,,,-0.09229,0.20115999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Villa Purificacion,,MXJAL14068,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Quitupan,,MXJAL14069,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,El Salto,,MXJAL14070,2020-09-26,0.0,,,-0.09869,0.17515,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1041,7 +1041,7 @@ Mexico,Durango,Canelas,,MXDUR10002,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_I
 Mexico,Durango,San Luis Del Cordero,,MXDUR10029,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,San Pedro Del Gallo,,MXDUR10030,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Santa Clara,,MXDUR10031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Durango,Santiago Papasquiaro,,MXDUR10032,2020-09-26,0.0,,,-0.02149,0.17363,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Durango,Santiago Papasquiaro,,MXDUR10032,2020-09-26,0.0,,,-0.021490000000000002,0.17363,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Tlahualilo,,MXDUR10036,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,San Marcos,,MXJAL14075,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,San Martin De Bolanos,,MXJAL14076,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1054,7 +1054,7 @@ Mexico,Jalisco,Sayula,,MXJAL14082,2020-09-26,0.0,,,-0.09909,0.16662000000000002,
 Mexico,Jalisco,Tala,,MXJAL14083,2020-09-26,1.0,,,-0.07247,0.19507,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Talpa De Allende,,MXJAL14084,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Tamazula De Gordiano,,MXJAL14085,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,Tapalpa,,MXJAL14086,2020-09-26,0.0,,,-0.13756,0.18426,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,Tapalpa,,MXJAL14086,2020-09-26,0.0,,,-0.13756,0.18425999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Tecalitlan,,MXJAL14087,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Tecolotlan,,MXJAL14088,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Techaluta De Montenegro,,MXJAL14089,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1077,7 +1077,7 @@ Mexico,Jalisco,Tototlan,,MXJAL14105,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_
 Mexico,Jalisco,Tuxcacuesco,,MXJAL14106,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Tuxcueca,,MXJAL14107,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Tuxpan,,MXJAL14108,2020-09-26,0.0,,,-0.12880999999999998,0.18345,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Durango,Vicente Guerrero,,MXDUR10038,2020-09-26,0.0,,,-0.02626,0.15698,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Durango,Vicente Guerrero,,MXDUR10038,2020-09-26,0.0,,,-0.026260000000000002,0.15698,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Durango,Nuevo Ideal,,MXDUR10039,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Abasolo,,MXGUA11001,2020-09-26,0.0,,,-0.07400000000000001,0.184,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guanajuato,Acambaro,,MXGUA11002,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1099,7 +1099,7 @@ Mexico,Guerrero,General Heliodoro Castillo,,MXGRO12032,2020-09-26,0.0,,,,,,,,,,,
 Mexico,Guerrero,Huamuxtitlan,,MXGRO12033,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Huitzuco De Los Figueroa,,MXGRO12034,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Iguala De La Independencia,,MXGRO12035,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guerrero,Igualapa,,MXGRO12036,2020-09-26,0.0,,,-0.12563,0.25557,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guerrero,Igualapa,,MXGRO12036,2020-09-26,0.0,,,-0.12563,0.25556999999999996,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Ixcateopan De Cuauhtemoc,,MXGRO12037,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Zihuatanejo De Azueta,,MXGRO12038,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Juan R. Escudero,,MXGRO12039,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1117,7 +1117,7 @@ Mexico,Guerrero,Pungarabato,,MXGRO12050,2020-09-26,0.0,,,-0.19801,0.26816,,,,,,,
 Mexico,Guerrero,Quechultenango,,MXGRO12051,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Tlalixtaquilla De Maldonado,,MXGRO12065,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Tlapa De Comonfort,,MXGRO12066,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Guerrero,Tlapehuala,,MXGRO12067,2020-09-26,0.0,,,-0.20292,0.24202,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Guerrero,Tlapehuala,,MXGRO12067,2020-09-26,0.0,,,-0.20292000000000002,0.24201999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,La Union De Isidoro Montes De Oca,,MXGRO12068,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Xalpatlahuac,,MXGRO12069,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Guerrero,Xochihuehuetlan,,MXGRO12070,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1128,9 +1128,9 @@ Mexico,Hidalgo,Acaxochitlan,,MXHID13002,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,
 Mexico,Hidalgo,Actopan,,MXHID13003,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Agua Blanca De Iturbide,,MXHID13004,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Ajacuba,,MXHID13005,2020-09-26,0.0,,,-0.15382,0.17436,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Alfajayucan,,MXHID13006,2020-09-26,0.0,,,-0.10154,0.18091,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Alfajayucan,,MXHID13006,2020-09-26,0.0,,,-0.10153999999999999,0.18091,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Almoloya,,MXHID13007,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Apan,,MXHID13008,2020-09-26,0.0,,,-0.1482,0.21083,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Apan,,MXHID13008,2020-09-26,0.0,,,-0.1482,0.21083000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,El Arenal,,MXHID13009,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Atitalaquia,,MXHID13010,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Atlapexco,,MXHID13011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1154,9 +1154,9 @@ Mexico,Jalisco,Villa Guerrero,,MXJAL14115,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.
 Mexico,Jalisco,Villa Hidalgo,,MXJAL14116,2020-09-26,0.0,,,-0.01204,0.14193,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Canadas De Obregon,,MXJAL14117,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Yahualica De Gonzalez Gallo,,MXJAL14118,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Tizayuca,,MXHID13069,2020-09-26,7.0,,,-0.12327,0.21496,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Tizayuca,,MXHID13069,2020-09-26,7.0,,,-0.12327,0.21495999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tlahuelilpan,,MXHID13070,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Tlanchinol,,MXHID13073,2020-09-26,0.0,,,0.00222,0.27181,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Tlanchinol,,MXHID13073,2020-09-26,0.0,,,0.0022199999999999998,0.27181,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Atlacomulco,,MXMEX15014,2020-09-26,1.0,,,-0.16332,0.17165,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Atlautla,,MXMEX15015,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Axapusco,,MXMEX15016,2020-09-26,0.0,,,-0.10385,0.17825,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1165,8 +1165,8 @@ Mexico,Mexico,Calimaya,,MXMEX15018,2020-09-26,0.0,,,-0.13473,0.20688,,,,,,,,,,,,
 Mexico,Mexico,Capulhuac,,MXMEX15019,2020-09-26,0.0,,,-0.09224,0.18023,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Santa Maria Totolapilla,,MXOAX20440,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Santa Maria Xadani,,MXOAX20441,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Tlaxcoapan,,MXHID13074,2020-09-26,1.0,,,-0.13201,0.20036,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Hidalgo,Tolcayuca,,MXHID13075,2020-09-26,1.0,,,-0.10276,0.20736,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Tlaxcoapan,,MXHID13074,2020-09-26,1.0,,,-0.13201,0.20035999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Hidalgo,Tolcayuca,,MXHID13075,2020-09-26,1.0,,,-0.10275999999999999,0.20736,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tula De Allende,,MXHID13076,2020-09-26,4.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Tulancingo De Bravo,,MXHID13077,2020-09-26,5.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Xochiatipan,,MXHID13078,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1176,24 +1176,24 @@ Mexico,Hidalgo,Zacualtipan De Angeles,,MXHID13081,2020-09-26,1.0,,,,,,,,,,,,,,,,
 Mexico,Hidalgo,Zapotlan De Juarez,,MXHID13082,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Zempoala,,MXHID13083,2020-09-26,1.0,,,-0.25096,0.17359000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Hidalgo,Zimapan,,MXHID13084,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Jalisco,Acatic,,MXJAL14001,2020-09-26,0.0,,,-0.10514,0.19352,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Jalisco,Acatic,,MXJAL14001,2020-09-26,0.0,,,-0.10514000000000001,0.19352,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Acatlan De Juarez,,MXJAL14002,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Ahualulco De Mercado,,MXJAL14003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Amacueca,,MXJAL14004,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,Amatitan,,MXJAL14005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Jalisco,San Ignacio Cerro Gordo,,MXJAL14125,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Acambay,,MXMEX15001,2020-09-26,0.0,,,-0.21771,0.22291,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Acolman,,MXMEX15002,2020-09-26,3.0,,,-0.14695999999999998,0.21269,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Acolman,,MXMEX15002,2020-09-26,3.0,,,-0.14695999999999998,0.21269000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Aculco,,MXMEX15003,2020-09-26,0.0,,,-0.07307999999999999,0.17845,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Almoloya De Alquisiras,,MXMEX15004,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Almoloya De Juarez,,MXMEX15005,2020-09-26,4.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Jaltenco,,MXMEX15044,2020-09-26,0.0,,,-0.15869,0.27783,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Jilotepec,,MXMEX15045,2020-09-26,2.0,,,-0.10751,0.15434,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Jilotzingo,,MXMEX15046,2020-09-26,0.0,,,-0.13215,0.22795,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Jiquipilco,,MXMEX15047,2020-09-26,0.0,,,-0.19617,0.23843000000000006,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Jiquipilco,,MXMEX15047,2020-09-26,0.0,,,-0.19617,0.23843000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Jocotitlan,,MXMEX15048,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Joquicingo,,MXMEX15049,2020-09-26,0.0,,,-0.07958,0.22178,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Juchitepec,,MXMEX15050,2020-09-26,2.0,,,-0.18005,0.20308,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Juchitepec,,MXMEX15050,2020-09-26,2.0,,,-0.18005,0.20307999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Almoloya Del Rio,,MXMEX15006,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Amanalco,,MXMEX15007,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Amatepec,,MXMEX15008,2020-09-26,0.0,,,-0.29658,0.32758000000000004,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1215,28 +1215,28 @@ Mexico,Mexico,Ocuilan,,MXMEX15063,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IM
 Mexico,Mexico,El Oro,,MXMEX15064,2020-09-26,0.0,,,-0.13419,0.19885,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Otumba,,MXMEX15065,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Otzoloapan,,MXMEX15066,2020-09-26,0.0,,,-0.161,0.21197,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Otzolotepec,,MXMEX15067,2020-09-26,0.0,,,-0.14526,0.19098,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Otzolotepec,,MXMEX15067,2020-09-26,0.0,,,-0.14526,0.19097999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Ozumba,,MXMEX15068,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Papalotla,,MXMEX15069,2020-09-26,0.0,,,-0.23511,0.19641,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Papalotla,,MXMEX15069,2020-09-26,0.0,,,-0.23510999999999999,0.19641,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,La Paz,,MXMEX15070,2020-09-26,10.0,,,-0.15492,0.26673,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Polotitlan,,MXMEX15071,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Rayon,,MXMEX15072,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,San Antonio La Isla,,MXMEX15073,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,San Felipe Del Progreso,,MXMEX15074,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Chiautla,,MXMEX15028,2020-09-26,0.0,,,-0.09273,0.17532,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Chiconcuac,,MXMEX15030,2020-09-26,0.0,,,-0.15203,0.21164,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Chiautla,,MXMEX15028,2020-09-26,0.0,,,-0.09272999999999999,0.17532,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Chiconcuac,,MXMEX15030,2020-09-26,0.0,,,-0.15203,0.21164000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Chimalhuacan,,MXMEX15031,2020-09-26,4.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Donato Guerra,,MXMEX15032,2020-09-26,0.0,,,-0.08757000000000001,0.17452,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Ecatepec De Morelos,,MXMEX15033,2020-09-26,18.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Ecatzingo,,MXMEX15034,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Huehuetoca,,MXMEX15035,2020-09-26,0.0,,,-0.10814,0.20538,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Hueypoxtla,,MXMEX15036,2020-09-26,0.0,,,-0.14693,0.23689,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Huixquilucan,,MXMEX15037,2020-09-26,8.0,,,-0.22986,0.25672,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Huehuetoca,,MXMEX15035,2020-09-26,0.0,,,-0.10814000000000001,0.20538,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Hueypoxtla,,MXMEX15036,2020-09-26,0.0,,,-0.14693,0.23689000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Huixquilucan,,MXMEX15037,2020-09-26,8.0,,,-0.22985999999999998,0.25672,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Isidro Fabela,,MXMEX15038,2020-09-26,0.0,,,-0.19771,0.20298,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Ixtapaluca,,MXMEX15039,2020-09-26,5.0,,,-0.14556,0.25325,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Ixtapan De La Sal,,MXMEX15040,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Ixtapan Del Oro,,MXMEX15041,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Ixtlahuaca,,MXMEX15042,2020-09-26,3.0,,,-0.18185,0.18374,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Ixtlahuaca,,MXMEX15042,2020-09-26,3.0,,,-0.18185,0.18374000000000001,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Xalatlaco,,MXMEX15043,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Zacazonapan,,MXMEX15116,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Zacualpan,,MXMEX15117,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1251,11 +1251,11 @@ Mexico,Mexico,Metepec,,MXMEX15054,2020-09-26,1.0,,,-0.12947,0.21035,,,,,,,,,,,,,
 Mexico,Mexico,Mexicaltzingo,,MXMEX15055,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Morelos,,MXMEX15056,2020-09-26,0.0,,,-0.1985,0.19793,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Naucalpan De Juarez,,MXMEX15057,2020-09-26,15.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Nextlalpan,,MXMEX15059,2020-09-26,0.0,,,-0.16214,0.21903000000000006,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Nextlalpan,,MXMEX15059,2020-09-26,0.0,,,-0.16214,0.21903000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Nicolas Romero,,MXMEX15060,2020-09-26,5.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Nopaltepec,,MXMEX15061,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Ocoyoacac,,MXMEX15062,2020-09-26,1.0,,,-0.16589,0.22122,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,San Mateo Atenco,,MXMEX15076,2020-09-26,0.0,,,-0.06831,0.22954,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Ocoyoacac,,MXMEX15062,2020-09-26,1.0,,,-0.16589,0.22121999999999997,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,San Mateo Atenco,,MXMEX15076,2020-09-26,0.0,,,-0.06831,0.22954000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,San Simon De Guerrero,,MXMEX15077,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Santo Tomas,,MXMEX15078,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Soyaniquilpan De Juarez,,MXMEX15079,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1276,7 +1276,7 @@ Mexico,Mexico,Temamatla,,MXMEX15083,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_
 Mexico,Mexico,Temascalapa,,MXMEX15084,2020-09-26,0.0,,,-0.14865,0.20188,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Temascalcingo,,MXMEX15085,2020-09-26,0.0,,,-0.14583,0.19507,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Temascaltepec,,MXMEX15086,2020-09-26,0.0,,,-0.16103,0.21848,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Temoaya,,MXMEX15087,2020-09-26,1.0,,,-0.1624,0.22131,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Temoaya,,MXMEX15087,2020-09-26,1.0,,,-0.1624,0.22130999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tenancingo,,MXMEX15088,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tenango Del Aire,,MXMEX15089,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tenango Del Valle,,MXMEX15090,2020-09-26,3.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1284,17 +1284,17 @@ Mexico,Michoacan De Ocampo,Acuitzio,,MXMIC16001,2020-09-26,0.0,,,,,,,,,,,,,,,,,,
 Mexico,Michoacan De Ocampo,Aguililla,,MXMIC16002,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Teoloyucan,,MXMEX15091,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Teotihuacan,,MXMEX15092,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Tepetlaoxtoc,,MXMEX15093,2020-09-26,0.0,,,-0.20589,0.19099,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Tepetlixpa,,MXMEX15094,2020-09-26,0.0,,,-0.21323000000000006,0.20247,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Tepetlaoxtoc,,MXMEX15093,2020-09-26,0.0,,,-0.20589000000000002,0.19099000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Tepetlixpa,,MXMEX15094,2020-09-26,0.0,,,-0.21323000000000003,0.20247,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tepotzotlan,,MXMEX15095,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tequixquiac,,MXMEX15096,2020-09-26,0.0,,,-0.13233,0.23091,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Texcaltitlan,,MXMEX15097,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Alvaro Obregon,,MXMIC16003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Michoacan De Ocampo,Angamacutiro,,MXMIC16004,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Tezoyuca,,MXMEX15100,2020-09-26,0.0,,,-0.20628,0.20886,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Tezoyuca,,MXMEX15100,2020-09-26,0.0,,,-0.20628000000000002,0.20886,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tianguistenco,,MXMEX15101,2020-09-26,0.0,,,-0.13558,0.21456,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Timilpan,,MXMEX15102,2020-09-26,0.0,,,-0.16468,0.21958000000000005,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Mexico,Tlalmanalco,,MXMEX15103,2020-09-26,0.0,,,-0.24526,0.2265,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Timilpan,,MXMEX15102,2020-09-26,0.0,,,-0.16468,0.21958000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Mexico,Tlalmanalco,,MXMEX15103,2020-09-26,0.0,,,-0.24525999999999998,0.2265,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tlalnepantla De Baz,,MXMEX15104,2020-09-26,15.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Tlatlaya,,MXMEX15105,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Mexico,Toluca,,MXMEX15106,2020-09-26,26.0,,,-0.19205,0.21832,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1335,23 +1335,23 @@ Mexico,Michoacan De Ocampo,Nocupetaro,,MXMIC16057,2020-09-26,0.0,,,,,,,,,,,,,,,,
 Mexico,Michoacan De Ocampo,Nuevo Parangaricutiro,,MXMIC16058,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Coatlan Del Rio,,MXMOR17005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Cuautla,,MXMOR17006,2020-09-26,1.0,,,-0.1218,0.21515,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Cuernavaca,,MXMOR17007,2020-09-26,3.0,,,-0.15302000000000002,0.23466,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Cuernavaca,,MXMOR17007,2020-09-26,3.0,,,-0.15302000000000002,0.23465999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Emiliano Zapata,,MXMOR17008,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Bavispe,,MXSON26015,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Benjamin Hill,,MXSON26016,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Tlalnepantla,,MXMOR17023,2020-09-26,0.0,,,-0.23514,0.194,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Tlayacapan,,MXMOR17026,2020-09-26,0.0,,,-0.14834,0.23416,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Tlalnepantla,,MXMOR17023,2020-09-26,0.0,,,-0.23514000000000002,0.19399999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Tlayacapan,,MXMOR17026,2020-09-26,0.0,,,-0.14834,0.23415999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Magdalena Tlacotepec,,MXOAX20053,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sonora,Caborca,,MXSON26017,2020-09-26,1.0,,,-0.04814,0.17259000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sonora,Caborca,,MXSON26017,2020-09-26,1.0,,,-0.048139999999999995,0.17259000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Cajeme,,MXSON26018,2020-09-26,4.0,,,-0.06389,0.19746,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Totolapan,,MXMOR17027,2020-09-26,0.0,,,-0.18235,0.22492,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Totolapan,,MXMOR17027,2020-09-26,0.0,,,-0.18235,0.22491999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Xochitepec,,MXMOR17028,2020-09-26,1.0,,,-0.10899,0.22273,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Yautepec,,MXMOR17029,2020-09-26,0.0,,,-0.09077,0.20894,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Morelos,Yecapixtla,,MXMOR17030,2020-09-26,0.0,,,-0.168,0.21412,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Yautepec,,MXMOR17029,2020-09-26,0.0,,,-0.09077,0.20894000000000001,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Morelos,Yecapixtla,,MXMOR17030,2020-09-26,0.0,,,-0.168,0.21411999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Zacatepec,,MXMOR17031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Zacualpan,,MXMOR17032,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Morelos,Temoac,,MXMOR17033,2020-09-26,0.0,,,-0.26093,0.29883000000000004,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nayarit,Acaponeta,,MXNAY18001,2020-09-26,0.0,,,-0.21419,0.25026,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nayarit,Acaponeta,,MXNAY18001,2020-09-26,0.0,,,-0.21419000000000002,0.25026,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Abasolo,,MXNLE19001,2020-09-26,1.0,,,-0.07605,0.1882,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Apodaca,,MXNLE19006,2020-09-26,21.0,,,-0.0881,0.18514,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Aramberri,,MXNLE19007,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1359,7 +1359,7 @@ Mexico,Nuevo Leon,Bustamante,,MXNLE19008,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0
 Mexico,Nuevo Leon,Hualahuises,,MXNLE19029,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Carmen,,MXNLE19010,2020-09-26,0.0,,,-0.11429,0.17182,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Dr. Gonzalez,,MXNLE19016,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nuevo Leon,Galeana,,MXNLE19017,2020-09-26,0.0,,,-0.11111,0.15957000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nuevo Leon,Galeana,,MXNLE19017,2020-09-26,0.0,,,-0.11110999999999999,0.15957000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Garcia,,MXNLE19018,2020-09-26,12.0,,,-0.06325,0.21034,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,San Pedro Garza Garcia,,MXNLE19019,2020-09-26,7.0,,,-0.18015,0.2002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Nuevo Leon,Gral. Bravo,,MXNLE19020,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1384,7 +1384,7 @@ Mexico,Nuevo Leon,Salinas Victoria,,MXNLE19045,2020-09-26,0.0,,,-0.0555,0.152009
 Mexico,Nuevo Leon,San Nicolas De Los Garza,,MXNLE19046,2020-09-26,20.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Nazareno Etla,,MXOAX20063,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Nejapa De Madero,,MXOAX20064,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Nuevo Leon,Hidalgo,,MXNLE19047,2020-09-26,0.0,,,-0.029560000000000006,0.19451,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Nuevo Leon,Hidalgo,,MXNLE19047,2020-09-26,0.0,,,-0.029560000000000003,0.19451,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Abejones,,MXOAX20001,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,San Andres Dinicuiti,,MXOAX20089,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Asuncion Cacalotepec,,MXOAX20003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1732,7 +1732,7 @@ Mexico,Oaxaca,Santo Domingo Tlatayapam,,MXOAX20518,2020-09-26,0.0,,,,,,,,,,,,,,,
 Mexico,Oaxaca,Santa Maria Quiegolani,,MXOAX20428,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Santa Maria Sola,,MXOAX20429,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Santa Maria Tataltepec,,MXOAX20430,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Chilchotla,,MXPUE21058,2020-09-26,0.0,,,0.11019,0.28714,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Chilchotla,,MXPUE21058,2020-09-26,0.0,,,0.11019000000000001,0.28714,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Santa Maria Tecomavaca,,MXOAX20431,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Queretaro De Arteaga,Pinal De Amoles,,MXQUE22002,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Oaxaca,Santa Maria Temaxcaltepec,,MXOAX20433,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1860,7 +1860,7 @@ Mexico,Puebla,Esperanza,,MXPUE21063,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_
 Mexico,Puebla,Francisco Z. Mena,,MXPUE21064,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,General Felipe Angeles,,MXPUE21065,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Guadalupe,,MXPUE21066,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Guadalupe Victoria,,MXPUE21067,2020-09-26,0.0,,,-0.14752,0.22388,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Guadalupe Victoria,,MXPUE21067,2020-09-26,0.0,,,-0.14752,0.22388000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Hermenegildo Galeana,,MXPUE21068,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Huaquechula,,MXPUE21069,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Huatlatlauca,,MXPUE21070,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1896,7 +1896,7 @@ Mexico,Puebla,Chichiquila,,MXPUE21050,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NO
 Mexico,Puebla,Chietla,,MXPUE21051,2020-09-26,0.0,,,-0.13155,0.30383000000000004,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Chigmecatitlan,,MXPUE21052,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Chignahuapan,,MXPUE21053,2020-09-26,1.0,,,-0.08842,0.18135,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Chignautla,,MXPUE21054,2020-09-26,1.0,,,-0.0937,0.20671,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Chignautla,,MXPUE21054,2020-09-26,1.0,,,-0.0937,0.20670999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Chila,,MXPUE21055,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Chila De La Sal,,MXPUE21056,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Honey,,MXPUE21057,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1907,13 +1907,13 @@ Mexico,Puebla,Jalpan,,MXPUE21086,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMP
 Mexico,Puebla,Jolalpan,,MXPUE21087,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Jonotla,,MXPUE21088,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Jopala,,MXPUE21089,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Juan C. Bonilla,,MXPUE21090,2020-09-26,0.0,,,-0.09967,0.14792,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Juan C. Bonilla,,MXPUE21090,2020-09-26,0.0,,,-0.09967000000000001,0.14792,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Nacozari De Garcia,,MXSON26041,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Juan Galindo,,MXPUE21091,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sonora,Navojoa,,MXSON26042,2020-09-26,2.0,,,-0.06627999999999999,0.19481,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sonora,Navojoa,,MXSON26042,2020-09-26,2.0,,,-0.06627999999999999,0.19480999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,La Magdalena Tlatlauquitepec,,MXPUE21095,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Xico,,MXVER30092,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Mixtla,,MXPUE21097,2020-09-26,0.0,,,-0.08731,0.21546,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Mixtla,,MXPUE21097,2020-09-26,0.0,,,-0.08731,0.21545999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Canada Morelos,,MXPUE21099,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Naupan,,MXPUE21100,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Nauzontla,,MXPUE21101,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1921,7 +1921,7 @@ Mexico,Puebla,Nealtican,,MXPUE21102,2020-09-26,0.0,,,-0.11214,0.19343,,,,,,,,,,,
 Mexico,Puebla,Nicolas Bravo,,MXPUE21103,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Nopalucan,,MXPUE21104,2020-09-26,0.0,,,-0.06564,0.16985999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Ocotepec,,MXPUE21105,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Ocoyucan,,MXPUE21106,2020-09-26,0.0,,,-0.17265,0.23084,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Ocoyucan,,MXPUE21106,2020-09-26,0.0,,,-0.17265,0.23084000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Olintla,,MXPUE21107,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Oriental,,MXPUE21108,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Pahuatlan,,MXPUE21109,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1929,28 +1929,28 @@ Mexico,Puebla,Palmar De Bravo,,MXPUE21110,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.
 Mexico,Puebla,Pantepec,,MXPUE21111,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Petlalcingo,,MXPUE21112,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Piaxtla,,MXPUE21113,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Puebla,,MXPUE21114,2020-09-26,53.0,,,-0.17189000000000002,0.23259,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Puebla,,MXPUE21114,2020-09-26,53.0,,,-0.17189000000000002,0.23259000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Quecholac,,MXPUE21115,2020-09-26,0.0,,,-0.17039,0.24729,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Quimixtlan,,MXPUE21116,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Huachinera,,MXSON26031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Tlacojalpan,,MXVER30176,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Rafael Lara Grajales,,MXPUE21117,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,San Gregorio Atzompa,,MXPUE21125,2020-09-26,1.0,,,-0.18644,0.21293,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,San Gregorio Atzompa,,MXPUE21125,2020-09-26,1.0,,,-0.18644000000000002,0.21293,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,San Juan Atzompa,,MXPUE21131,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,San Martin Texmelucan,,MXPUE21132,2020-09-26,1.0,,,-0.181,0.21025,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,San Martin Texmelucan,,MXPUE21132,2020-09-26,1.0,,,-0.18100000000000002,0.21025,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Puerto Penasco,,MXSON26048,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Quiriego,,MXSON26049,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Lazaro Cardenas,,MXTLA29047,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,La Magdalena Tlaltelulco,,MXTLA29048,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Los Reyes De Juarez,,MXPUE21118,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,San Gabriel Chilac,,MXPUE21124,2020-09-26,0.0,,,-0.14372,0.23271,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,San Gabriel Chilac,,MXPUE21124,2020-09-26,0.0,,,-0.14372000000000001,0.23271,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Xochiltepec,,MXPUE21201,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Xochitlan De Vicente Suarez,,MXPUE21202,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Xochitlan Todos Santos,,MXPUE21203,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Yaonahuac,,MXPUE21204,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Yehualtepec,,MXPUE21205,2020-09-26,0.0,,,-0.00683,0.20026,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zacapala,,MXPUE21206,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Zacapoaxtla,,MXPUE21207,2020-09-26,0.0,,,-0.15884,0.21446,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Zacapoaxtla,,MXPUE21207,2020-09-26,0.0,,,-0.15884,0.21445999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zacatlan,,MXPUE21208,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zapotitlan,,MXPUE21209,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zapotitlan De Mendez,,MXPUE21210,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -1987,13 +1987,13 @@ Mexico,Queretaro De Arteaga,Tequisquiapan,,MXQUE22017,2020-09-26,0.0,,,,,,,,,,,,
 Mexico,Queretaro De Arteaga,Toliman,,MXQUE22018,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Quintana Roo,Cozumel,,MXROO23001,2020-09-26,0.0,,,-0.1383,0.2009,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Quintana Roo,Felipe Carrillo Puerto,,MXROO23002,2020-09-26,0.0,,,-0.18746,0.27698,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Quintana Roo,Isla Mujeres,,MXROO23003,2020-09-26,0.0,,,-0.18189,0.24069,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Quintana Roo,Isla Mujeres,,MXROO23003,2020-09-26,0.0,,,-0.18189,0.24069000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Quintana Roo,Othon P. Blanco,,MXROO23004,2020-09-26,3.0,,,-0.17845,0.24856,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Quintana Roo,Benito Juarez,,MXROO23005,2020-09-26,27.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Santo Tomas Hueyotlipan,,MXPUE21151,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Soltepec,,MXPUE21152,2020-09-26,0.0,,,-0.1522,0.25373,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tecali De Herrera,,MXPUE21153,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Tecamachalco,,MXPUE21154,2020-09-26,0.0,,,-0.09427,0.21042,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Tecamachalco,,MXPUE21154,2020-09-26,0.0,,,-0.09427,0.21041999999999997,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tecomatlan,,MXPUE21155,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tehuacan,,MXPUE21156,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tehuitzingo,,MXPUE21157,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2003,7 +2003,7 @@ Mexico,Puebla,Teotlalco,,MXPUE21160,2020-09-26,0.0,,,-0.21309,0.25169,,,,,,,,,,,
 Mexico,Puebla,Tepanco De Lopez,,MXPUE21161,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tepango De Rodriguez,,MXPUE21162,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tepatlaxco De Hidalgo,,MXPUE21163,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Tepeaca,,MXPUE21164,2020-09-26,1.0,,,0.01421,0.20276,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Tepeaca,,MXPUE21164,2020-09-26,1.0,,,0.014209999999999999,0.20276,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tepemaxalco,,MXPUE21165,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tepeojuma,,MXPUE21166,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tepetzintla,,MXPUE21167,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2026,11 +2026,11 @@ Mexico,Puebla,Tetela De Ocampo,,MXPUE21172,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0
 Mexico,Puebla,Teteles De Avila Castillo,,MXPUE21173,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Teziutlan,,MXPUE21174,2020-09-26,5.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tianguismanalco,,MXPUE21175,2020-09-26,0.0,,,-0.15536,0.19211,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Tilapa,,MXPUE21176,2020-09-26,0.0,,,-0.10748,0.2308,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Tilapa,,MXPUE21176,2020-09-26,0.0,,,-0.10747999999999999,0.2308,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tlacotepec De Benito Juarez,,MXPUE21177,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tlacuilotepec,,MXPUE21178,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tlachichuca,,MXPUE21179,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Tlahuapan,,MXPUE21180,2020-09-26,0.0,,,-0.11346,0.21353000000000005,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Tlahuapan,,MXPUE21180,2020-09-26,0.0,,,-0.11345999999999999,0.21353000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tlaltenango,,MXPUE21181,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Soledad De Graciano Sanchez,,MXSLP24035,2020-09-26,9.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Tamasopo,,MXSLP24036,2020-09-26,0.0,,,-0.15016,0.23886,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2049,18 +2049,18 @@ Mexico,Puebla,Tochtepec,,MXPUE21189,2020-09-26,0.0,,,-0.08641,0.21013,,,,,,,,,,,
 Mexico,Puebla,Totoltepec De Guerrero,,MXPUE21190,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tulcingo,,MXPUE21191,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Tuzamapan De Galeana,,MXPUE21192,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Tzicatlacoyan,,MXPUE21193,2020-09-26,0.0,,,-0.08152000000000001,0.20864,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Venustiano Carranza,,MXPUE21194,2020-09-26,0.0,,,-0.13937,0.21407,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Tzicatlacoyan,,MXPUE21193,2020-09-26,0.0,,,-0.08152000000000001,0.20864000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Venustiano Carranza,,MXPUE21194,2020-09-26,0.0,,,-0.13937,0.21406999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Vicente Guerrero,,MXPUE21195,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Xayacatlan De Bravo,,MXPUE21196,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Puebla,Xicotepec,,MXPUE21197,2020-09-26,0.0,,,-0.15497,0.23552,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Puebla,Xicotepec,,MXPUE21197,2020-09-26,0.0,,,-0.15497,0.23551999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Xicotlan,,MXPUE21198,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Xiutetelco,,MXPUE21199,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zinacatepec,,MXPUE21214,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zongozotla,,MXPUE21215,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zoquiapan,,MXPUE21216,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Puebla,Zoquitlan,,MXPUE21217,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Quintana Roo,Jose Maria Morelos,,MXROO23006,2020-09-26,0.0,,,-0.19107,0.27231,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Quintana Roo,Jose Maria Morelos,,MXROO23006,2020-09-26,0.0,,,-0.19107000000000002,0.27231,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Ahualulco,,MXSLP24001,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Alaquines,,MXSLP24002,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Aquismon,,MXSLP24003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2070,16 +2070,16 @@ Mexico,San Luis Potosi,Tierra Nueva,,MXSLP24043,2020-09-26,0.0,,,,,,,,,,,,,,,,,,
 Mexico,San Luis Potosi,Cardenas,,MXSLP24005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Catorce,,MXSLP24006,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Villa De La Paz,,MXSLP24048,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,San Luis Potosi,Cedral,,MXSLP24007,2020-09-26,0.0,,,-0.03998,0.21933,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,San Luis Potosi,Cedral,,MXSLP24007,2020-09-26,0.0,,,-0.03998,0.21933000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sinaloa,Sinaloa,,MXSIN25017,2020-09-26,0.0,,,-0.14124,0.2607,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sinaloa,Navolato,,MXSIN25018,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Aconchi,,MXSON26001,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Agua Prieta,,MXSON26002,2020-09-26,0.0,,,0.02024,0.16965999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Alamos,,MXSON26003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sonora,Altar,,MXSON26004,2020-09-26,0.0,,,-0.20676,0.18371,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sonora,Altar,,MXSON26004,2020-09-26,0.0,,,-0.20676,0.18370999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Coxcatlan,,MXSLP24014,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Huehuetlan,,MXSLP24018,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,San Luis Potosi,Matehuala,,MXSLP24020,2020-09-26,1.0,,,-0.08906,0.19331,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,San Luis Potosi,Matehuala,,MXSLP24020,2020-09-26,1.0,,,-0.08906,0.19330999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Mexquitic De Carmona,,MXSLP24021,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Moctezuma,,MXSLP24022,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,San Luis Potosi,Vanegas,,MXSLP24044,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2097,8 +2097,8 @@ Mexico,Sinaloa,Badiraguato,,MXSIN25003,2020-09-26,0.0,,,-0.09379,0.25913,,,,,,,,
 Mexico,Sinaloa,Concordia,,MXSIN25004,2020-09-26,1.0,,,-0.23917,0.25648000000000004,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sinaloa,Cosala,,MXSIN25005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sinaloa,Culiacan,,MXSIN25006,2020-09-26,21.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sinaloa,Choix,,MXSIN25007,2020-09-26,0.0,,,-0.18623,0.23741,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sinaloa,Elota,,MXSIN25008,2020-09-26,1.0,,,-0.14457,0.21956,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sinaloa,Choix,,MXSIN25007,2020-09-26,0.0,,,-0.18623,0.23740999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sinaloa,Elota,,MXSIN25008,2020-09-26,1.0,,,-0.14457,0.21955999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sinaloa,Escuinapa,,MXSIN25009,2020-09-26,0.0,,,-0.15039,0.25095,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sinaloa,El Fuerte,,MXSIN25010,2020-09-26,0.0,,,-0.16077,0.24689,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sinaloa,Guasave,,MXSIN25011,2020-09-26,2.0,,,-0.1285,0.22144,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2109,12 +2109,12 @@ Mexico,Sinaloa,Salvador Alvarado,,MXSIN25015,2020-09-26,0.0,,,-0.07777,0.2011,,,
 Mexico,Sonora,Atil,,MXSON26007,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Bacerac,,MXSON26010,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Bacanora,,MXSON26009,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sonora,Cananea,,MXSON26019,2020-09-26,0.0,,,-0.03306,0.19978,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sonora,Cananea,,MXSON26019,2020-09-26,0.0,,,-0.03306,0.19977999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Fronteras,,MXSON26027,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Carbo,,MXSON26020,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,La Colorada,,MXSON26021,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Granados,,MXSON26028,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Sonora,Hermosillo,,MXSON26030,2020-09-26,52.0,,,-0.11061,0.207,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Sonora,Hermosillo,,MXSON26030,2020-09-26,52.0,,,-0.11060999999999999,0.207,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Huasabas,,MXSON26032,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Huepac,,MXSON26034,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,Imuris,,MXSON26035,2020-09-26,0.0,,,0.09093,0.15436,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2140,7 +2140,7 @@ Mexico,Sonora,Villa Hidalgo,,MXSON26067,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,
 Mexico,Sonora,Villa Pesqueira,,MXSON26068,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Sonora,General Plutarco Elias Calles,,MXSON26070,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Cardenas,,MXTAB27002,2020-09-26,4.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tabasco,Centla,,MXTAB27003,2020-09-26,0.0,,,-0.17769,0.31735,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tabasco,Centla,,MXTAB27003,2020-09-26,0.0,,,-0.17769000000000001,0.31735,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Centro,,MXTAB27004,2020-09-26,32.0,,,-0.16008,0.29546999999999995,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Comalcalco,,MXTAB27005,2020-09-26,3.0,,,-0.12825,0.2874,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Cunduacan,,MXTAB27006,2020-09-26,2.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2151,8 +2151,8 @@ Mexico,Tabasco,Jalpa De Mendez,,MXTAB27010,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0
 Mexico,Tabasco,Jonuta,,MXTAB27011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Macuspana,,MXTAB27012,2020-09-26,1.0,,,-0.1743,0.31766,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Nacajuca,,MXTAB27013,2020-09-26,3.0,,,-0.12423,0.3188,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tabasco,Paraiso,,MXTAB27014,2020-09-26,0.0,,,0.004070000000000001,0.22301,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tabasco,Tacotalpa,,MXTAB27015,2020-09-26,2.0,,,-0.13853,0.37236,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tabasco,Paraiso,,MXTAB27014,2020-09-26,0.0,,,0.004070000000000001,0.22300999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tabasco,Tacotalpa,,MXTAB27015,2020-09-26,2.0,,,-0.13853,0.37235999999999997,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Teapa,,MXTAB27016,2020-09-26,0.0,,,-0.07703,0.29258,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tabasco,Tenosique,,MXTAB27017,2020-09-26,0.0,,,-0.1766,0.30779,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Abasolo,,MXTAM28001,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2177,12 +2177,12 @@ Mexico,Veracruz De Ignacio De La Llave,Ixhuacan De Los Reyes,,MXVER30079,2020-09
 Mexico,Veracruz De Ignacio De La Llave,Ixhuatlan Del Cafe,,MXVER30080,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Ixhuatlancillo,,MXVER30081,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Ocampo,,MXTAM28029,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tamaulipas,Padilla,,MXTAM28030,2020-09-26,0.0,,,-0.11294,0.22248,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tamaulipas,Padilla,,MXTAM28030,2020-09-26,0.0,,,-0.11294000000000001,0.22248,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Palmillas,,MXTAM28031,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Reynosa,,MXTAM28032,2020-09-26,3.0,,,-0.11812,0.2041,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Rio Bravo,,MXTAM28033,2020-09-26,0.0,,,-0.0743,0.18511,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,San Carlos,,MXTAM28034,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tamaulipas,San Fernando,,MXTAM28035,2020-09-26,0.0,,,-0.09618,0.20053,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tamaulipas,San Fernando,,MXTAM28035,2020-09-26,0.0,,,-0.09618,0.20052999999999999,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Ixhuatlan Del Sureste,,MXVER30082,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Ixhuatlan De Madero,,MXVER30083,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Ixmatlahuacan,,MXVER30084,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2194,19 +2194,19 @@ Mexico,Veracruz De Ignacio De La Llave,Jaltipan,,MXVER30089,2020-09-26,0.0,,,,,,
 Mexico,Veracruz De Ignacio De La Llave,Jamapa,,MXVER30090,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Jesus Carranza,,MXVER30091,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Valle Hermoso,,MXTAM28040,2020-09-26,1.0,,,-0.12707000000000002,0.15712,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tamaulipas,Victoria,,MXTAM28041,2020-09-26,16.0,,,-0.10931,0.20898000000000005,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tamaulipas,Victoria,,MXTAM28041,2020-09-26,16.0,,,-0.10930999999999999,0.20898000000000003,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tamaulipas,Villagran,,MXTAM28042,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tamaulipas,Xicotencatl,,MXTAM28043,2020-09-26,0.0,,,-0.20727,0.2302,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tamaulipas,Xicotencatl,,MXTAM28043,2020-09-26,0.0,,,-0.20726999999999998,0.2302,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Amaxac De Guerrero,,MXTLA29001,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Apetatitlan De Antonio Carvajal,,MXTLA29002,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Atlangatepec,,MXTLA29003,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Atltzayanca,,MXTLA29004,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Apizaco,,MXTLA29005,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Calpulalpan,,MXTLA29006,2020-09-26,0.0,,,-0.055179999999999986,0.24294,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Calpulalpan,,MXTLA29006,2020-09-26,0.0,,,-0.05517999999999999,0.24294000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,El Carmen Tequexquitla,,MXTLA29007,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Cuapiaxtla,,MXTLA29008,2020-09-26,0.0,,,-0.05528,0.19675,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Cuapiaxtla,,MXTLA29008,2020-09-26,0.0,,,-0.055279999999999996,0.19675,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Cuaxomulco,,MXTLA29009,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Chiautempan,,MXTLA29010,2020-09-26,1.0,,,-0.07288,0.21883,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Chiautempan,,MXTLA29010,2020-09-26,1.0,,,-0.07288,0.21883000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Munoz De Domingo Arenas,,MXTLA29011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Espanita,,MXTLA29012,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Huamantla,,MXTLA29013,2020-09-26,0.0,,,-0.13454000000000002,0.18845,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2216,11 +2216,11 @@ Mexico,Tlaxcala,Tenancingo,,MXTLA29027,2020-09-26,0.0,,,-0.08207,0.21825,,,,,,,,
 Mexico,Tlaxcala,Tlaxco,,MXTLA29034,2020-09-26,0.0,,,-0.23205,0.16099000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Nogales,,MXVER30115,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Tocatlan,,MXTLA29035,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Totolac,,MXTLA29036,2020-09-26,1.0,,,-0.18774,0.21431,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Totolac,,MXTLA29036,2020-09-26,1.0,,,-0.18774000000000002,0.21431,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Ziltlaltepec De Trinidad Sanchez Santos,,MXTLA29037,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Tzompantepec,,MXTLA29038,2020-09-26,1.0,,,-0.12439,0.19053,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Tzompantepec,,MXTLA29038,2020-09-26,1.0,,,-0.12439000000000001,0.19053,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Xaloztoc,,MXTLA29039,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Tlaxcala,Xaltocan,,MXTLA29040,2020-09-26,0.0,,,-0.15989,0.18901,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Tlaxcala,Xaltocan,,MXTLA29040,2020-09-26,0.0,,,-0.15989,0.18900999999999998,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Tlaxcala,Papalotla De Xicohtencatl,,MXTLA29041,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Tepetlan,,MXVER30166,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Veracruz De Ignacio De La Llave,Tepetzintla,,MXVER30167,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2436,12 +2436,12 @@ Mexico,Yucatan,Yaxkukul,,MXYUC31105,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_
 Mexico,Yucatan,Yobain,,MXYUC31106,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Atolinga,,MXZAC32003,2020-09-26,1.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Benito Juarez,,MXZAC32004,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Calera,,MXZAC32005,2020-09-26,0.0,,,-0.05347,0.16593,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Calera,,MXZAC32005,2020-09-26,0.0,,,-0.053470000000000004,0.16593,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Canitas De Felipe Pescador,,MXZAC32006,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Concepcion Del Oro,,MXZAC32007,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Cuauhtemoc,,MXZAC32008,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Chalchihuites,,MXZAC32009,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Fresnillo,,MXZAC32010,2020-09-26,5.0,,,-0.05994,0.18699,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Fresnillo,,MXZAC32010,2020-09-26,5.0,,,-0.05994,0.18699000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Trinidad Garcia De La Cadena,,MXZAC32011,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Genaro Codina,,MXZAC32012,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,General Enrique Estrada,,MXZAC32013,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
@@ -2451,7 +2451,7 @@ Mexico,Zacatecas,General Panfilo Natera,,MXZAC32016,2020-09-26,1.0,,,,,,,,,,,,,,
 Mexico,Zacatecas,El Salvador,,MXZAC32041,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Villa Garcia,,MXZAC32052,2020-09-26,0.0,,,-0.10095,0.18162,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Villa Gonzalez Ortega,,MXZAC32053,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Villa Hidalgo,,MXZAC32054,2020-09-26,2.0,,,-0.20946,0.27654,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Villa Hidalgo,,MXZAC32054,2020-09-26,2.0,,,-0.20945999999999998,0.27654,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Villanueva,,MXZAC32055,2020-09-26,0.0,,,-0.00417,0.21785,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
-Mexico,Zacatecas,Zacatecas,,MXZAC32056,2020-09-26,7.0,,,-0.10566,0.18369,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
+Mexico,Zacatecas,Zacatecas,,MXZAC32056,2020-09-26,7.0,,,-0.10565999999999999,0.18369000000000002,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
 Mexico,Zacatecas,Santa Maria De La Paz,,MXZAC32058,2020-09-26,0.0,,,,,,,,,,,,,,,,,,,,,,0.0,NOT_IMPLEMENTED,1.0,1.0,726431.0,76243.0,73.61,54.17,61.9,0.0
